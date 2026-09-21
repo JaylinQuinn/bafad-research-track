@@ -21,7 +21,7 @@ Consider: What patterns did you observe in the SMAP data? How might those patter
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+> After working with the SMAP data one thing I noticed was that there was a lot more normal data than anomaly data. I also noticed that some of the anomaly values overlapped with the normal values which surprised me because I thought the anomalies would stand out more. This could make detecting anomalies harder because the model cannot just look for values that seem unusual. An autoencoder could help by learning the patterns of normal sensor data first and then finding data that does not follow those patterns.
 
 ---
 
@@ -33,7 +33,7 @@ Be honest. There are no wrong answers — this helps us plan the onboarding sche
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+> I think my biggest gap right now is that I am still pretty new to Python and statistics so there are a lot of things I still have to learn. I understand some of the basics, but I still need more practice with working with data and knowing when to use certain functions. Machine learning is also very new to me especially things like autoencoders and anomaly detection. My plan is to keep practicing Python, ask questions when I do not understand something, and use the research experience to learn more as I go.
 
 ---
 
